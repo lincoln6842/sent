@@ -3,24 +3,24 @@
         "id":1,
         "title": "Star Wars: The Last Jedi",
         "image": "https://api.androidhive.info/json/movies/starwars.jpg",
-        "price": "â‚¹ 160"
+        "price": "160"
     },
     {
         "id":2,
         "title": "Shape Of Water",
         "image": "https://api.androidhive.info/json/movies/shape_of_water.jpg",
-        "price": "â‚¹ 130"
+        "price": "130"
     },
     {
         "id":3,
         "title": "Baahubali: The Conclusion",
         "image": "https://api.androidhive.info/json/movies/baahubali2.jpg",
-        "price": "â‚¹ 210"
+        "price": "210"
     },
     {
         "id":4,
         "title": "Thor: The Ragnarok",
         "image": "https://api.androidhive.info/json/movies/thor_ragnarok.jpg",
-        "price": "â‚¹ 170"
+        "price": "170"
     }
     ]
